@@ -1,0 +1,12 @@
+{
+    "1": {
+        "color": "Silver",
+        "name": "Laptop",
+        "price": 1000
+    },
+    "2": {
+        "color": "Black",
+        "name": "Phone",
+        "price": 500
+    }
+}
